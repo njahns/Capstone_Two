@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>URL</key>
+	<string>https://www.waterqualitydata.us/#countrycode=US&amp;siteType=Lake%2C%20Reservoir%2C%20Impoundment&amp;sampleMedia=Water&amp;sampleMedia=water&amp;characteristicType=Inorganics%2C%20Major%2C%20Metals&amp;characteristicType=Inorganics%2C%20Major%2C%20Non-metals&amp;characteristicType=Inorganics%2C%20Minor%2C%20Metals&amp;characteristicType=Inorganics%2C%20Minor%2C%20Non-metals&amp;characteristicType=Nutrient&amp;characteristicType=Physical&amp;mimeType=csv&amp;sorted=no&amp;dataProfile=narrowResult&amp;providers=NWIS&amp;providers=STEWARDS&amp;providers=STORET</string>
+</dict>
+</plist>
